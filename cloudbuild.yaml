@@ -1,4 +1,4 @@
-step:
+steps:
 - name: 'grc.io/cloud-builders/gcloud'
   args: ['app','deploy','app.yaml']
   timeout: '1600'
